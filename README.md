@@ -70,7 +70,7 @@ This Power BI project explores customer churn patterns using a dataset of 10,000
 
 ## 📎 Preview
 
-![Dashboard Screenshot](images/churn-dashboard.png)
+![Dashboard Screenshot](churn_1.png)
 
 > ℹ️ *(Replace the above image path with your actual image location in your repo)*
 
